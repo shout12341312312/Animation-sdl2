@@ -1,0 +1,19 @@
+﻿  TitleScreen.cpp
+  Texture.cpp
+  SplashScreen.cpp
+  ScreenManager.cpp
+  Main.cpp
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\main.cpp(24): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\main.cpp(27): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\main.cpp(40): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\main.cpp(49): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  InputManager.cpp
+  GameScreen.cpp
+  FadeAnimation.cpp
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\fadeanimation.cpp(18): warning C4305: '=': truncation from 'double' to 'float'
+  Animation.cpp
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\animation.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\sdl2 platformer coding made easy\sdl2 platformer coding made easy\animation.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDL2 platformer Coding Made easy.vcxproj -> C:\Users\MICHU\Desktop\SDL2 platformer Coding Made easy\x64\Debug\SDL2 platformer Coding Made easy.exe
+  SDL2 platformer Coding Made easy.vcxproj -> C:\Users\MICHU\Desktop\SDL2 platformer Coding Made easy\x64\Debug\SDL2 platformer Coding Made easy.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function _SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\MICHU\Desktop\SDL2 platformer Coding Made easy\Debug\SDL2 platformer Coding Made easy.exe : fatal error LNK1120: 2 unresolved externals
